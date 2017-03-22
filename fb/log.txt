@@ -1,0 +1,11 @@
+lsd=AVp7hym5
+email=user@mail.com
+pass=password
+timezone=405
+lgndim=eyJ3IjoxMjgwLCJoIjo3MjAsImF3IjoxMjgwLCJhaCI6NjgzLCJjIjoyNH0=
+lgnrnd=090750_RgY6
+lgnjs=1490158360
+ab_test_data=PAAAPAA/A/fvPAAAAAAPAAPAAAAAAAAAAAAAAAAAW/WAAAAAAAKABC
+locale=en_GB
+next=https://www.facebook.com/
+
